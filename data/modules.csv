@@ -1,0 +1,6 @@
+id_module,module,filiere,coef
+M01,SQL,Data,3
+M02,Python,Data,4
+M03,Power BI,BI,3
+M04,MongoDB,Big Data,2
+M05,Data Warehouse,BI,3
